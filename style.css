@@ -63,6 +63,6 @@ button:hover {
 
 }
 
-.container.td{
+.container #td{
     display: flex;
 }
